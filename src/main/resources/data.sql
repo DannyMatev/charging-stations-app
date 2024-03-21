@@ -1,0 +1,10 @@
+INSERT INTO charging_stations (id, uuid, location, zipcode)
+VALUES (51, 'a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', ST_GeomFromText('POINT(40.712776 -74.005974)', 4326), '10007');
+INSERT INTO charging_stations (id, uuid, location, zipcode)
+VALUES (52, 'b0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', ST_GeomFromText('POINT(34.052235 -118.243683)', 4326), '90012');
+INSERT INTO charging_stations (id, uuid, location, zipcode)
+VALUES (53, 'c0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', ST_GeomFromText('POINT(41.878113 -87.629799)', 4326), '60602');
+INSERT INTO charging_stations (id, uuid, location, zipcode)
+VALUES (54, 'd0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', ST_GeomFromText('POINT(29.760427 -95.369804)', 4326), '77002');
+INSERT INTO charging_stations (id, uuid, location, zipcode)
+VALUES (55, 'e0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', ST_GeomFromText('POINT(33.448376 -112.074036)', 4326), '85003');
